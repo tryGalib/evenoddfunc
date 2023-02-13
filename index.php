@@ -10,5 +10,5 @@ function checkEvenOdd($num) {
   }
 }
 
-$num = 0;
+$num = 5;
 echo checkEvenOdd($num);
